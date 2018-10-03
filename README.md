@@ -4,4 +4,7 @@
 
 * [City_Bike_Dahsboard](https://public.tableau.com/profile/meghana7022#!/)[public dashboard] 
 
+* Male riders shows a decreasing trend even as along with Female rider/ members decrease during peak summer month of July.
+* There is a proportional direct relationship between age of the riders, between the ages of 20 to 50, and the duration of rides taken. As the age increases, duration of the rides increase.
+
 
